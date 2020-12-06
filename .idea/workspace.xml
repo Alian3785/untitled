@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2551ab16-32cd-4dd8-b980-c367e1741e67" name="Default Changelist" comment="" />
+    <list default="true" id="2551ab16-32cd-4dd8-b980-c367e1741e67" name="Default Changelist" comment="123dsf">
+      <change beforePath="$PROJECT_DIR$/122222224.php" beforeDir="false" afterPath="$PROJECT_DIR$/122222224.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +14,10 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lGLK2j1BS3fkEufY8aYbBpAYur" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,21 +36,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607218413970</updated>
-      <workItem from="1607218415030" duration="121000" />
+      <workItem from="1607218415030" duration="430000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1607218652195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607218652195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123dsf">
+      <created>1607218762672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607218762672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="123dsf">
+      <created>1607218801135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607218801135</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="123dsf" />
+    <option name="LAST_COMMIT_MESSAGE" value="123dsf" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1607218604504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218604504" />
+    <state x="825" y="225" key="Github.UntrackedFilesDialog" timestamp="1607218613255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218613255" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607218425238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218425238" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1607218535467">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1607218587281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607218535467" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607218587281" />
+    <state x="725" y="224" key="VCS.ChangeListViewerDialog" timestamp="1607218697758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218697758" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607218841966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607218841966" />
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607218745885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218745885" />
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1607218702774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218702774" />
   </component>
 </project>
