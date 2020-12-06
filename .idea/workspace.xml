@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2551ab16-32cd-4dd8-b980-c367e1741e67" name="Default Changelist" comment="123dsf">
-      <change beforePath="$PROJECT_DIR$/122222224.php" beforeDir="false" afterPath="$PROJECT_DIR$/122222224.php" afterDir="false" />
-    </list>
+    <list default="true" id="2551ab16-32cd-4dd8-b980-c367e1741e67" name="Default Changelist" comment="123dsf3242122212121212" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../withbitrix" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -36,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607218413970</updated>
-      <workItem from="1607218415030" duration="430000" />
+      <workItem from="1607218415030" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1607218652195</created>
@@ -59,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607218801135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="123dsf32421222">
+      <created>1607218849279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607218849279</updated>
+    </task>
+    <task id="LOCAL-00005" summary="123dsf3242122212121212">
+      <created>1607218936938</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607218936938</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,9 +81,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
     <MESSAGE value="123dsf" />
-    <option name="LAST_COMMIT_MESSAGE" value="123dsf" />
+    <MESSAGE value="123dsf32421222" />
+    <MESSAGE value="123dsf3242122212121212" />
+    <option name="LAST_COMMIT_MESSAGE" value="123dsf3242122212121212" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607218988638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607218988638" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1607218604504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -91,14 +110,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218697758" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607218841966">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607218940594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607218841966" />
-    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607218745885">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607218940594" />
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607218920534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218745885" />
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218920534" />
     <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1607218702774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
